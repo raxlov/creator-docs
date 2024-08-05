@@ -129,3 +129,7 @@ _Certainly! This script is an example of how to handle collisions between two pa
 </blockquote>
 </TabItem>
 </Tabs>
+
+
+
+**[tutorialforbeginer]: the ai has an limit for generating at the moment, its an daily, can be anoying sometimes, but i dont brag about it, an generator for free is an generator for free**
